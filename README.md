@@ -1,16 +1,128 @@
-## Hi there 👋
+# 🔥 安全开发者 & 全栈剑客 | 技术探索者
 
-<!--
-**XiaoHeiQ/XiaoHeiQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**一个专注网络安全、CTF 竞赛与全栈开发的终身学习者，致力于用技术突破边界，以创新驱动安全能力建设。**
 
-Here are some ideas to get you started:
+## 🌟 核心技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 开发能力
+
+- **语言**：Python（主力）、汇编语言、C/C++、JavaScript/TypeScript
+
+- **前端**：Vue3、HTML5/CSS3、TypeScript
+
+- **后端**：FastAPI
+
+- **数据库**：MySQL、SQLite（基础）
+
+- **工具链**：VSCode、Git、Docker、Trac、~~各种IDEA~~
+
+### 🔐 网络安全核心领域
+
+#### Web 安全
+
+- 漏洞挖掘与利用：XSS/CSRF/SQL 注入 / XXE/SSRF/RCE/ 反序列化 / 文件类漏洞
+
+- 防御技术：WAF 绕过、安全开发（SDL）、代码审计、免杀对抗
+
+- 靶场复现：Vulhub复现、sqli-labs 复现、pentesterlab靶场和国内靶场
+
+#### 逆向与移动安全
+
+- 逆向分析：EXE/ELF 逆向、JS 逆向、Android 逆向（APK 脱壳 / FridaHook）
+
+- 二进制安全：ROP 链构造、缓冲区溢出、软件漏洞分析
+
+#### 系统与内网安全
+
+- 系统运维：Linux/Windows 权限提升、SUID 提权、内网渗透（代理 / 隧道 / 横向移动）
+
+- 蓝队能力：日志审查、应急响应、蜜罐部署、入侵溯源
+
+#### CTF 竞赛体系
+
+- Web 方向：SSTI / 原型链污染 / PHP 反序列化 / 文件包含绕过
+
+- Misc 方向：隐写术（图片 / 文件 / 音频）、开源情报（OSINT）、工具脚本化
+
+- Pwn/Reverse：基础 ROP、IDA 静态分析、动态调试技巧
+
+## 🚀 项目与实战经验
+
+### 📊 ~~全栈~~开发项目
+
+1. **一些python项目**
+
+- 名称：API可视化智能助手、自动化新闻爬取并可视化、密码生成与分析系统、人脸检测识别系统、░░░░░░░░░░
+
+2. **全栈网站（开发中）**
+
+### ⚡ 安全脚本与工具
+
+#### 监控与扫描
+
+- 页面爬虫（动态 / 静态内容提取）
+
+- 端口扫描器（多线程优化，支持 TCP/UDP 协议）
+
+- SQLMAP 自动化 API 扫描框架（自定义插件扩展）
+
+#### 渗透与免杀
+
+- 反向 / 正向连接工具（加密通信绕过杀软）
+
+- ARP 中间人攻击脚本（数据包嗅探与篡改）
+
+- 多线程爆破工具（支持 HTTP / 数据库 / 文件密码）
+
+#### 加密与隐写
+
+- AES/RSA 加解密工具集（支持多种模式与密钥管理）
+
+- 图片隐写术脚本（LSB 算法实现与检测）
+
+#### 泛洪与爆破
+
+░░░░░░░
+
+## 📖 知识体系与学习资源
+
+### 🌐 安全知识图谱
+
+- **Web 安全**：网络基础 | 信息收集 | 各语言漏洞利用（PHP/~~Java~~/Node.js）
+
+- **逆向工程**：EXE 逆向 | JS 逆向 | 安卓 APK 分析
+
+- **CTF 体系**：Web 漏洞总结 | 隐写术指南 | 密码学算法解析
+
+- **开发与安全**：安全编码规范 | WAF 攻防 | ░░░░░░░░░░（开发中）
+
+### 📚 学习资料（部分公开）
+
+- [Flowus 知识库](https://flowus.cn/)（含 CTF 题解、漏洞复现、工具脚本）
+
+- 靶场复现：sqli-labs | Vulhub | NSSCTF | CTFshow
+
+- 技术博客：记录漏洞分析、工具开发心得（开发中）
+
+## 🛡️ 蓝队与应急响应
+
+- 日志分析：异常流量检测、暴力破解溯源
+
+- 防御实践：网络空间取证、Web 防火墙策略优化、蜜罐诱捕系统部署
+
+- 应急经验：恶意软件清除、数据恢复、漏洞补丁管理
+
+## 🤝 联系与合作
+
+- **邮箱**：wfshenm@qq.com
+
+- **技术交流**：欢迎交流合作，共同完善安全工具与知识库
+
+- **合作方向**：漏洞挖掘、安全开发、CTF 、渗透测试
+
+## 📌 个人信条
+
+独走痴人路、莫羡他人程
+
+### 🌟 持续进化中...
+
